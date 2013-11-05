@@ -17,6 +17,7 @@
 	},
 	"dependencies": {
 		"levelup": "~0.17.0",
-		"leveldown": "~0.9.2"
+		"leveldown": "~0.9.2",
+		"async": "~0.2.9"
 	}
 }
